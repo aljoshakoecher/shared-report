@@ -1,2 +1,2 @@
 # shared-report
-A shared project report for Project X
+A little git-repository to learn the basics of git with a dummy project representing a shared project report for a project
